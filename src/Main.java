@@ -4,5 +4,7 @@ public class Main {
         System.out.println("GIT_2");
         System.out.println("GIT_20");
         System.out.println("GIT_21");
+        System.out.println("GIT_30");
+        System.out.println("GIT_31");
     }
 }
